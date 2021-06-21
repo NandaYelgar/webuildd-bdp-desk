@@ -1,0 +1,23 @@
+.city-i26012782671 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 22px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.frame-1 {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: flex;
+  height: 160px;
+  overflow: hidden;
+  padding: 14px 16px;
+  width: 954px;
+}
+.text-inputs-normal {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  min-width: 954px;
+  mix-blend-mode: normal;
+}

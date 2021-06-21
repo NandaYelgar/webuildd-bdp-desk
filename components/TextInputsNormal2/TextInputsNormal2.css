@@ -1,0 +1,34 @@
+.city-i26012780671 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 22px;
+  min-width: 41px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.frame-1-1 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  height: 50px;
+  overflow: hidden;
+  padding: 0 16px;
+  width: 302px;
+}
+.text-inputs-normal-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  min-width: 302px;
+  mix-blend-mode: normal;
+}
+.text-inputs-normal-2.text-inputs-normal-1 .city-i26012780671 {
+  min-width: 101px;
+}
+.text-inputs-normal-2.text-inputs-normal-1,
+.text-inputs-normal-2.text-inputs-normal-1-1 {
+  margin-left: 24px;
+}
+.text-inputs-normal-2.text-inputs-normal-1-1 .city-i26012780671 {
+  min-width: 38px;
+}

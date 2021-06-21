@@ -1,0 +1,62 @@
+:root {
+  --abbey: #4f4f4f;
+  --black: #000000;
+  --dark-grey: #58585a;
+  --light-grey: #777777;
+  --mine-shaft: #333333;
+  --white: #ffffff;
+
+  --font-size-30px: 30px;
+  --font-size-l2: 16px;
+  --font-size-m2: 14px;
+  --font-size-xl2: 20px;
+  --font-size-xxxxl: 40px;
+
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-overpass: "Overpass", Helvetica;
+}
+.typographyheadlineh2-extrabold-40 {
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: -0.4px;
+}
+.typographyheadlineh5-extrabold-20 {
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+.typographybody16-regular {
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+.typographybodycaption-14-semi-bold {
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+.inter-normal-sonic-silver-14px {
+  color: var(--light-grey);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+.overpass-extra-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-overpass);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 800;
+}
+.border-1px-light-grey {
+  border: 1px solid var(--light-grey);
+}
